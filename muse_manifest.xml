@@ -1,0 +1,72 @@
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="commerce.com" resolutions="1x" timestamp="1479089088774">
+  <folder name="assets">
+    <file name="site-2.muse" crc="4037024382" seo="true" mt="1479086888000"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="3916556066"/>
+    <file name="index.css" crc="3955452063" ref="index"/>
+    <file name="master_b-mestre.css" crc="125217900" ref="cadastro"/>
+    <file name="master_a-mestre.css" crc="3930608956" ref="produtos:index:clientes"/>
+    <file name="login.css" crc="249901031" ref="login"/>
+    <file name="produtos.css" crc="3835139931" ref="produtos"/>
+    <file name="cadastro.css" crc="387401778" ref="cadastro"/>
+    <file name="clientes.css" crc="455623328" ref="clientes"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:produtos:clientes:cadastro:login"/>
+    <file name="museutils.js" crc="3851988764" ref="index:produtos:clientes:cadastro:login"/>
+    <file name="whatinput.js" crc="86476730" ref="index:produtos:clientes:cadastro:login"/>
+    <file name="museconfig.js" crc="169177150" ref="index:produtos:clientes:cadastro:login"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="index:produtos:clientes:cadastro:login"/>
+    <file name="webpro.js" crc="4067903014" ref="produtos:clientes:cadastro:login"/>
+    <file name="form_check.php" crc="121412709" ref="produtos"/>
+    <file name="form_throttle.php" crc="4268640971" ref="produtos"/>
+    <file name="form_process.php" crc="444429785" ref="produtos"/>
+    <file name="require.js" crc="4108833657" ref="index:produtos:clientes:cadastro:login"/>
+    <file name="pie.js" crc="3831537696" ref="produtos:clientes:cadastro:login"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="login"/>
+    <file name="form-u118.php" crc="3804709745" ref="produtos"/>
+    <file name="form-u162.php" crc="3875701743" ref="clientes"/>
+    <file name="form-u261.php" crc="270033677" ref="cadastro"/>
+    <file name="form-u618.php" crc="4221525371" ref="login"/>
+  </folder>
+  <folder name="images">
+    <file name="logo.png" crc="4254901078" seo="true" ref="index:produtos:clientes:cadastro"/>
+    <file name="checkboxunchecked.jpg" crc="3995141794" ref="login"/>
+    <file name="checkboxuncheckedrollover.jpg" crc="4064281604" ref="login"/>
+    <file name="checkboxuncheckedmousedown.jpg" crc="187163638" ref="login"/>
+    <file name="checkboxchecked.jpg" crc="278809147" ref="login"/>
+    <file name="checkboxcheckedrollover.jpg" crc="9876373" ref="login"/>
+    <file name="checkboxcheckedmousedown.jpg" crc="4102437312" ref="login"/>
+    <file name="carrinho_vazio.png" crc="3826677118" seo="true" ref="produtos:clientes:index"/>
+    <file name="users-add-user-icon.png" crc="424074345" seo="true" ref="produtos:clientes:index"/>
+    <file name="exit-icon-3.png" crc="341737989" seo="true" ref="produtos:clientes:index"/>
+    <file name="u86-4.png" crc="3971695628" ref="produtos:clientes:index"/>
+    <file name="u90-4.png" crc="3815241545" ref="produtos:clientes:index"/>
+    <file name="u110-4.png" crc="4137310762" ref="produtos:clientes:index"/>
+    <file name="u117-4.png" crc="121464987" ref="produtos"/>
+    <file name="u145-17.png" crc="3960112217" ref="produtos"/>
+    <file name="u145-17-r.png" crc="4235726300" ref="produtos"/>
+    <file name="u145-17-m.png" crc="4216307748" ref="produtos"/>
+    <file name="u145-17-fs.png" crc="3979036105" ref="produtos"/>
+    <file name="u161-4.png" crc="291871315" ref="clientes"/>
+    <file name="u178-17.png" crc="273237108" ref="clientes"/>
+    <file name="u178-17-r.png" crc="4235726300" ref="clientes"/>
+    <file name="u178-17-m.png" crc="4216307748" ref="clientes"/>
+    <file name="u178-17-fs.png" crc="3979036105" ref="clientes"/>
+    <file name="u288-17.png" crc="273237108" ref="cadastro"/>
+    <file name="u288-17-r.png" crc="4235726300" ref="cadastro"/>
+    <file name="u288-17-m.png" crc="4121099175" ref="cadastro"/>
+    <file name="u288-17-fs.png" crc="3961868260" ref="cadastro"/>
+    <file name="logo2.png" crc="350008322" seo="true" ref="login"/>
+    <file name="u619-17.png" crc="301079345" ref="login"/>
+    <file name="u619-17-r.png" crc="275198416" ref="login"/>
+    <file name="u619-17-m.png" crc="341813282" ref="login"/>
+    <file name="u619-17-fs.png" crc="145504397" ref="login"/>
+  </folder>
+  <file name="index.html" crc="4001663934" seo="true" mt="1479088890204" redirect="true"/>
+  <file name="produtos.html" crc="4140494158" seo="true" mt="1479088890204" redirect="true"/>
+  <file name="clientes.html" crc="530808934" seo="true" mt="1479088890204" redirect="true"/>
+  <file name="cadastro.html" crc="3905418721" seo="true" mt="1479088524613" redirect="true"/>
+  <file name="login.html" crc="438923844" seo="true" mt="1479088914546" redirect="true"/>
+</manifest>
